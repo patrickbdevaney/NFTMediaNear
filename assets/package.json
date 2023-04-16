@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mintbase-js/sdk": "^0.3.2-beta.0",
+    "@mintbase-js/storage": "^0.3.2-beta.0"
+  }
+}
